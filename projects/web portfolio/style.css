@@ -1,0 +1,42 @@
+h1{
+    color: rgb(81, 88, 50);
+}
+.half-width{
+    width: 40%;
+    float: left;
+   
+}
+.link-button{
+text-decoration: none;
+background-color: rgb(255, 0, 234);
+padding: 10px 20px;
+border-radius: 5px;
+
+}
+.h1 {
+    width: 40%;
+    float: right;
+}
+h2{
+    font-size: 40px;
+    
+}
+p{
+   color: rgb(16, 16, 20);
+    
+}
+ .single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+
+ }
+ #full-stack{
+    border-left: 5px solid;
+    border-image-slice: 1;
+    color: saddlebrown;
+    
+
+
+ }
+    
